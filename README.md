@@ -1,15 +1,15 @@
 
-(https://capsule-render.vercel.app/api?type=wave&height=300&color=Blue%20Purple&text=Hey%20There,%20I'm%20Tu&descAlign=54&fontAlign=60&fontAlignY=40&descAlignY=14)
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Hey%20There,%20I'm%20Tu&descAlign=54&fontAlign=60&fontAlignY=40&descAlignY=14)
 ##  Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,springboot,cs,dotnet,python,mysql,git,github,docker,html,css,js,bootstrap,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,mysql,git,github,docker,html,css,js,bootstrap,cpp)](https://skillicons.dev)
 ##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=phansytu&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanSyTu&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phansytu&layout=compact&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=PhanSyTu&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=phansytu&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=phansytu)
 
