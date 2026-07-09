@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**phansytu/phansytu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(https://capsule-render.vercel.app/api?type=wave&height=300&color=Blue%20Purple&text=Hey%20There,%20I'm%20Tu&descAlign=54&fontAlign=60&fontAlignY=40&descAlignY=14)
+##  Tech Stack
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=java,springboot,cs,dotnet,python,mysql,git,github,docker,html,css,js,bootstrap,cpp)](https://skillicons.dev)
+##  GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=phansytu&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanSyTu&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=PhanSyTu&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=phansytu)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=phansytu)](https://github.com/ryo-ma/github-profile-trophy)
