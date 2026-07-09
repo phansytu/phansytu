@@ -12,6 +12,5 @@
 
 <!-- 3. GITHUB STATS -->
 <p align="center">
-  <!-- Hãy thay "phansytu" thành username thật của bạn -->
-  <img src="https://github-readme-stats.shion.dev/api?username=phansytu&show_icons=true&theme=default&title_color=4285f4&text_color=00c2a8&icon_color=a855f7&bg_color=ffffff&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phansytu&theme=default&fire=ff6c02&ring=4285f4&stroke=ffffff&currStreakNum=00c2a8&sideLabels=4285f4&dates=00c2a8&background=ffffff&hide_border=true" alt="GitHub Streak Stats" />
 </p>
