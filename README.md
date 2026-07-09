@@ -14,3 +14,5 @@
 ![](https://komarev.com/ghpvc/?username=phansytu)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phansytu)](https://github.com/ryo-ma/github-profile-trophy)
+
+![snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
