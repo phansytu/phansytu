@@ -10,7 +10,10 @@
 
 ---
 
-<!-- 3. GITHUB STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=phansytu&show_icons=true&theme=default&title_color=4285f4&text_color=00c2a8&icon_color=a855f7&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" alt="GitHub Stats" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=phansytu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=phansytu&layout=compact&hide_border=true"/>
 </p>
