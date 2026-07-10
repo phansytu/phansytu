@@ -11,5 +11,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/phansytu/phansytu/main/github-stats.svg" alt="GitHub Stats" />
+  <img src="./github-metrics.svg" alt="GitHub Stats" />
 </p>
