@@ -2,8 +2,8 @@ name: Personal GitHub Metrics
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Tự động chạy lại cứ sau 6 tiếng
-  workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công bất cứ lúc nào
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -17,6 +17,27 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: phansytu
           template: classic
-          base: header, activity, community, repositories
           config_timezone: Asia/Ho_Chi_Minh
-          filename: github-metrics.svg # Tên file ảnh sẽ sinh ra trong repo
+          filename: github-metrics.svg
+          
+          # 1. ĐỔI MÀU CHỮ SANG XANH DƯƠNG (Sử dụng palette màu tùy biến)
+          config_twemoji: yes
+          # Mã màu hex cho phần text và các chi tiết chính chuyển sang màu xanh dương
+          palette: custom
+          color_primary: "#4285f4"   # Màu xanh dương làm chủ đạo
+          color_text: "#1a73e8"      # Màu chữ xanh dương sáng
+          
+          # 2. RÚT GỌN CHỈ HIỂN THỊ CÁC THÔNG SỐ CHÍNH
+          base: header, activity, community
+          base_repositories: no      # Tắt danh sách repo chi tiết dài dòng
+          
+          # 3. HIỂN THỊ RANK / HUY CHƯƠNG GỌN GÀNG (Chỉ hiện các thành tựu cao nhất)
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: B  # Chỉ hiển thị từ rank B trở lên để tránh dài dòng
+          plugin_achievements_limit: 3       # Giới hạn chỉ hiện tối đa 3 huy chương chính
+          
+          # 4. THÊM TÓM TẮT NGÔN NGỮ (Tùy chọn cho đủ 6-7 ý chính rất đẹp)
+          plugin_languages: yes
+          plugin_languages_limit: 4          # Chỉ hiển thị top 4 ngôn ngữ bạn code nhiều nhất
+          plugin_languages_details: percentage # Chỉ hiện phần trăm, ẩn các chi tiết dài dòng
